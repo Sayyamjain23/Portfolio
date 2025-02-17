@@ -9,7 +9,7 @@ function Type() {
           "Frontend Developer",
           "Backend Developer",
           "MERN Stack Developer",
-         ,
+         
         ],
         autoStart: true,
         loop: true,
